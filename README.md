@@ -71,8 +71,8 @@ Savitribai Phule Pune University (SPPU)
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [sagarrathod31-DS](https://github.com/sagarrathod31-DS)
-- 🔗 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your professional email here
+- 🔗 LinkedIn: [ www.linkedin.com/in/sagar-rathod-344b04353 ]
+- 📧 Email: [ sagar073677@gmail.com ]
 
 ---
 

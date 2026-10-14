@@ -40,6 +40,7 @@ I am passionate about working with data, finding meaningful insights, creating d
 - GitHub
 - VS Code
 - MySQL
+- Google Colab
 
 ## 🎯 Currently Learning
 

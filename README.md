@@ -57,7 +57,9 @@ I am passionate about working with data, finding meaningful insights, creating d
 
 - Data Analytics Certifications
 - Data Science Certifications
-- Virtual Experience Programs
+- SQL Advanced Certificate Hackerrank 
+- Innovating with Google Cloud AI
+- python Programming Course For Beginners Certificate
 
 ---
 
